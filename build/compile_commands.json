@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Programming/ProjectCourse/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/msys64/mingw64/include/stb -g -o CMakeFiles\\proekt.dir\\main.cpp.obj -c C:\\Programming\\ProjectCourse\\main.cpp",
+  "file": "C:\\Programming\\ProjectCourse\\main.cpp",
+  "output": "CMakeFiles\\proekt.dir\\main.cpp.obj"
+}
+]

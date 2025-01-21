@@ -1,0 +1,3 @@
+C:/Programming/ProjectCourse/build/CMakeFiles/proekt.dir
+C:/Programming/ProjectCourse/build/CMakeFiles/edit_cache.dir
+C:/Programming/ProjectCourse/build/CMakeFiles/rebuild_cache.dir
